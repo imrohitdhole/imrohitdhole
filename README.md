@@ -13,8 +13,8 @@ San Jose, CA · Open to relocation · Open to Data Engineering roles
 ## 👋 About Me
 
 - 🧑‍💻 Data Engineer with two years of professional engineering and data-validation experience, including 20 months building and supporting production data platforms for banking and commercial clients at **Wipro**.
-- 🏦 **Lloyds Banking Group (Payments):** built and tuned Python and Apache Beam pipelines for sub-minute payment-data availability in Cloud Spanner and BigQuery, with ~25% lower end-to-end latency, ~30% faster Spanner queries and 99.9%+ pipeline uptime.
-- 🛒 **Nomad Foods (Commercial Data):** cut batch-ingestion turnaround from hours to minutes with parallel PySpark on Dataproc, and reduced manual reconciliation by ~50% with automated Python/SQL data-quality checks.
+- 🔧 I build batch and streaming ETL/ELT pipelines with SQL, Python, PySpark, Airflow, Apache Beam and Kafka, with a focus on data quality: validation, reconciliation, deduplication and schema checks.
+- ☁️ Hands-on with GCP (BigQuery, Cloud Spanner, Dataflow, Dataproc, Pub/Sub), plus Snowflake and dbt from graduate work.
 - 🎓 **M.S. Applied Data Intelligence**, San José State University (May 2026) · **B.Tech Computer Science and Engineering**, Dr. Babasaheb Ambedkar Technological University (2022).
 - 💬 Ask me about ETL/ELT design, streaming pipelines, data quality and GCP.
 
@@ -75,20 +75,27 @@ San Jose, CA · Open to relocation · Open to Data Engineering roles
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="Rohit's GitHub stats" height="170" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="170" />
-</p>
+### Wipro Limited — Project Engineer (Data Engineer)
+*India · Dec 2022 – Jul 2024*
 
----
+**Lloyds Banking Group · Payments Data Platform**
+- Delivered sub-minute payment-data availability in Cloud Spanner and BigQuery and cut end-to-end latency by ~25% by building and tuning Python and Apache Beam ingestion pipelines (measured with Dataflow metrics and Kafka consumer-lag dashboards).
+- Reduced Cloud Spanner query execution time by ~30% for high-volume payment workloads by refining schemas and query patterns with data-modeling teams.
+- Improved schema-release traceability across environments by version-controlling database migrations with Liquibase and supporting Terraform-managed infrastructure for Dockerized services on GKE.
+- Helped maintain 99.9%+ pipeline uptime against production SLAs by resolving failures, joining design reviews and supporting IAM and PCI DSS controls for payment data.
 
-## 🔥 Contribution Streak
+**Nomad Foods · Commercial Data Platform**
+- Reduced FTPS and SharePoint batch-ingestion turnaround from hours to minutes by partitioning source data, parallelizing PySpark processing on Dataproc and optimizing incremental loads.
+- Cut manual reconciliation effort by ~50% with Python and SQL validation, deduplication, schema checks, structured error handling and automated alerts for JSON-based PostgreSQL loads.
+- Enabled near-real-time reporting across sales, product mapping and payments with Airflow-orchestrated ETL/ELT and Pub/Sub ingestion into partitioned BigQuery tables and PostgreSQL.
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imrohitdhole&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
-</p>
+### UL Solutions — SAR Intern
+*Fremont, CA · May 2026 – Aug 2026*
+
+- Validated SAR (Specific Absorption Rate) test data for 60+ wireless devices, reconciling 8–10 measurements per device against test plans, datasheets and FCC SAR test methods, and escalating inconsistencies before sign-off.
+- Prepared 500+ analysis-ready measurement records as structured inputs for engineering compliance reviews.
 
 ---
 
