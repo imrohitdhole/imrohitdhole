@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Data+Engineer;Batch+%26+Streaming+Data+Pipelines;GCP+%7C+SQL+%7C+Python+%7C+PySpark;Airflow+%7C+Kafka+%7C+dbt+%7C+Snowflake" alt="Typing SVG" /></a>
 
-San Jose, CA · Open to relocation · Open to Data Engineering roles
+San Jose, CA · Open to relocation · Open to Data Engineering & Analytics roles
 
 </div>
 
