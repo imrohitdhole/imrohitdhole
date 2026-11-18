@@ -12,11 +12,11 @@ San Jose, CA · Open to relocation · Open to Data Engineering & Analytics roles
 
 ## 👋 About Me
 
-- 🧑‍💻 Data Engineer with two years of professional engineering and data-validation experience, including 20 months building and supporting production data platforms for banking and commercial clients at **Wipro**.
-- 🔧 I build batch and streaming ETL/ELT pipelines with SQL, Python, PySpark, Airflow, Apache Beam and Kafka, with a focus on data quality: validation, reconciliation, deduplication and schema checks.
-- ☁️ Hands-on with GCP (BigQuery, Cloud Spanner, Dataflow, Dataproc, Pub/Sub), plus Snowflake and dbt from graduate work.
-- 🎓 **M.S. Applied Data Intelligence**, San José State University (May 2026) · **B.Tech Computer Science and Engineering**, Dr. Babasaheb Ambedkar Technological University (2022).
-- 💬 Ask me about ETL/ELT design, streaming pipelines, data quality and GCP.
+- 🧑‍💻 Data Engineer with 4+ years of experience building cloud data platforms for banking, payments, and commercial clients. Currently at NTT DATA, previously at Wipro.
+- 🔧 I build batch and near-real-time ETL/ELT pipelines using SQL, Python, PySpark, Airflow, Apache Beam, and Kafka, with a focus on CDC, dimensional modeling, data quality, and performance optimization.
+- ☁️ Hands-on with AWS (Glue, S3, DMS, Redshift, Athena), GCP (BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Spanner), and Snowflake.
+- 🎓 M.S. Applied Data Intelligence, San José State University (May 2026) · B.Tech Computer Science and Engineering, Dr. Babasaheb Ambedkar Technological University (2022).
+- 💬 Ask me about data pipelines, Customer 360, streaming, data warehousing, and building reliable data platforms on AWS and GCP.
 
 ---
 
